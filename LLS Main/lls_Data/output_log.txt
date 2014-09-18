@@ -1,0 +1,94 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\LLS Main\lls_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\LLS Main\lls_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\LLS Main\lls_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\LLS Main\lls_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.182 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+making it
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Data too long to fit the audioclip: Tomato. 126006 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Cabbage. 118838 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Chive. 105526 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Corn. 108598 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Eggplant. 102454 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Garlic. 131126 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Lettuce. 98358 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Mushroom. 107574 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Onion. 95286 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Potato. 152630 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Radish. 102454 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+Data too long to fit the audioclip: Squash. 148534 sample(s) discarded
+ 
+(Filename:  Line: 375)
+
+UnloadTime: 0.571669 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 1.405497 ms (FindLiveObjects: 0.038881 ms CreateObjectMapping: 0.036186 ms MarkObjects: 0.313359 ms  DeleteObjects: 0.010393 ms)
+
+Tomato
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Garlic
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Chive
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Cabbage
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Onion
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
